@@ -70,3 +70,64 @@ Our solution targets a diverse range of individuals engaging with digital conten
 - **Tech Enthusiasts**: Users who are early adopters of new technologies and are keen on integrating innovative solutions into their daily routines.
 - **Entertainment Aficionados**: Viewers who spend significant time consuming digital media and appreciate seamless, interactive experiences.
 - **Integrated Shopping Seekers**: Users who prefer a unified experience where entertainment and shopping intersect, allowing them to purchase products directly from the content they consume.
+
+# Project Prototype: Amazon Prime & Amazon Shopping
+
+This repository contains prototypes for Amazon Prime and Amazon Shopping applications, demonstrating both frontend and backend setups.
+
+## Amazon Prime
+
+### Backend Setup
+
+1. **Run Backend**: Execute the Backend.ipynb notebook found in `Prime Backend/` to generate the Segments folder.
+
+
+2. **Download YOLO Files**: [Download YOLO files](https://drive.google.com/drive/folders/1RvFRm23dIamM8nfZIRcrxuMnGJKevvUR?usp=sharing).
+
+3. **Download Data Video**: [Download data video files](https://drive.google.com/drive/folders/1rtLg6f-_avskim5pNIo9eyD4oOKsIMMh?usp=sharing).
+
+### Frontend Setup
+
+1. **Copy Segments Folder**: Move the generated Segments folder from the backend to `src/`.
+
+2. **Install Dependencies**:
+
+       ```bash
+            npm install
+            mui install
+            npm start
+        ```
+
+3. **Frontend Starts**
+
+
+## Amazon Shopping
+
+### Frontend Setup
+
+1. **Install Dependencies**:
+      ```bash
+            npm install
+            npm start
+        ```
+
+### Backend Setup
+
+1. **Live Detection**: 
+       ```bash
+            python app2.py
+        ```
+
+2. **Image Detection**:
+        ```bash
+            python app.py
+        ```
+
+3. **Download YOLO Files**: [Download YOLO files](https://drive.google.com/drive/folders/1RvFRm23dIamM8nfZIRcrxuMnGJKevvUR?usp=sharing).
+
+4. **Download Data Video**: [Download data video files](https://drive.google.com/drive/folders/1rtLg6f-_avskim5pNIo9eyD4oOKsIMMh?usp=sharing).
+
+
+
+
+
