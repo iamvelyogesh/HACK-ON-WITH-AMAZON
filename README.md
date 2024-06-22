@@ -74,6 +74,15 @@ Our solution targets a diverse range of individuals engaging with digital conten
 # Project Prototype: Amazon Prime & Amazon Shopping
 
 This repository contains prototypes for Amazon Prime and Amazon Shopping applications, demonstrating both frontend and backend setups.
+# Prototype Video
+
+Check out the prototype demo video for a quick overview of the Amazon Prime and Amazon Shopping applications:
+
+[![Prototype Demo Video]](https://drive.google.com/file/d/1B6negAf32qEHLdt3zH4PGsNx81J7p8IE/view?usp=sharing)
+
+Click the image above to watch the demo.
+
+For detailed setup instructions, please refer to the sections above.
 
 ## Amazon Prime
 
