@@ -101,7 +101,7 @@ For detailed setup instructions, please refer to the sections above.
 
 2. **Install Dependencies**:
 
-       ```bash
+       ```
             npm install
             mui install
             npm start
@@ -115,7 +115,7 @@ For detailed setup instructions, please refer to the sections above.
 ### Frontend Setup
 
 1. **Install Dependencies**:
-      ```bash
+      ```
             npm install
             npm start
         ```
@@ -123,12 +123,12 @@ For detailed setup instructions, please refer to the sections above.
 ### Backend Setup
 
 1. **Live Detection**: 
-       ```bash
+       ```
             python app2.py
         ```
 
 2. **Image Detection**:
-        ```bash
+        ```
             python app.py
         ```
 
