@@ -13,8 +13,6 @@ Traditional e-commerce platforms often rely on text-based search and recommendat
 - **Implementing a visual search bar**: Allowing users to find similar products by uploading images, making the search process more intuitive and efficient.
 - **Offering real-time search suggestions based on visual input**: Enhancing the user experience by providing immediate and relevant product suggestions.
 
-By addressing these areas, we aim to create a next-generation shopping platform that not only meets but exceeds customer expectations, making shopping more accessible, enjoyable, and personalized.
-
 ## Solution
 Our solution merges cutting-edge visual AI with Amazon Prime's X-Ray, enabling users to seamlessly explore and buy products featured in video content, redefining entertainment as an immersive shopping experience. It excels in the following aspects:
 
@@ -65,4 +63,10 @@ Our solution merges cutting-edge visual AI with Amazon Prime's X-Ray, enabling u
 ## Practical Use Case
 A user watching a movie on Amazon Prime can pause the movie, click on an image of a product they like, and be redirected to the product page on Amazon to buy it. Similarly, in Amazon Shopping, users can upload an image file or perform a live scan to find products visually matched by the system.
 
-By integrating these advanced features, we transform the shopping experience into an interactive, engaging, and highly personalized journey.
+### Customers
+Our solution targets a diverse range of individuals engaging with digital content on platforms like Amazon Prime, including:
+
+- **Avid Shoppers**: Individuals who frequently make online purchases and seek efficient, enjoyable shopping experiences.
+- **Tech Enthusiasts**: Users who are early adopters of new technologies and are keen on integrating innovative solutions into their daily routines.
+- **Entertainment Aficionados**: Viewers who spend significant time consuming digital media and appreciate seamless, interactive experiences.
+- **Integrated Shopping Seekers**: Users who prefer a unified experience where entertainment and shopping intersect, allowing them to purchase products directly from the content they consume.
