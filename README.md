@@ -1,4 +1,4 @@
-# Enhanced Shopping Experience with Visual AI and Computer Vision
+# Enhanced Shopping Experience with Visual AI
 
 ## Overview
 In today's digital age, enhancing the shopping experience through innovative technologies is crucial for engaging customers and driving sales. Leveraging the power of visual AI and computer vision, we aim to revolutionize how users search, discover, and interact with products online. This project focuses on integrating advanced image recognition, natural language processing, and computer vision technologies to create a seamless, personalized, and engaging shopping experience.
